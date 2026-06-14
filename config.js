@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Châu Anh ơi!',
+    introDesc: `Có một điều Chương giấu lâu rồi
+    Mà cứ ngập ngừng mãi không nói
+    Thôi thì hôm nay liều một lần
+    Châu Anh đọc hết nhé, đừng cười Chương 🙈`,
+    btnIntro: 'Đọc tiếp đi',
+    title: 'Không biết từ bao giờ mà Chương cứ để ý Châu Anh hoài 😳',
+    desc: 'Mỗi lần Châu Anh cười là Chương lại thấy tim đập loạn xạ á',
+    btnYes: 'Ừ, Châu Anh cũng thích Chương <33',
+    btnNo: 'Thôi, coi nhau như em trai đi :3',
+    question: 'Cả thế giới này, Chương chỉ muốn đứng cạnh mỗi Châu Anh thôi. Châu Anh chịu Chương nha? <3',
+    btnReply: 'Gửi cho Chương <3',
+    reply: 'Chịu thì nói chịu, làm gì mà ngại ghê á <33333333',
+    mess: 'Biết ngay mà 🥰. Chương thích Châu Anh nhiều lắm luôn 😘😘',
+    messDesc: 'Mai Chương rủ Châu Anh đi ăn gì đó nha, hí hí.',
+    btnAccept: 'Okii luôn <3',
+    messLink: 'https://www.facebook.com/zhangshan18112006/'
 }
